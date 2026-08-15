@@ -6,7 +6,11 @@ date: 2026-08-15
 
 ## What I learned
 
-Today I learned about DNS and how domain names are resolved.
+..What Active Directory is
+..What an Active Directory Domain is
+..What components go into an Active Directory Domain
+..Forests and Domain Trust
+≤And much more!
 
 ## What I practiced
 
