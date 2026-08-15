@@ -6,10 +6,10 @@ date: 2026-08-15
 
 ## What I learned
 
-..What Active Directory is
-..What an Active Directory Domain is
-..What components go into an Active Directory Domain
-..Forests and Domain Trust
+..What Active Directory is /
+..What an Active Directory Domain is /
+..What components go into an Active Directory Domain /
+..Forests and Domain Trust /
 ≤And much more!
 
 ## What I practiced
