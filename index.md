@@ -3,6 +3,8 @@ layout: default
 title: Cybersecurity Journey
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
 # My Cybersecurity Journey 🏴‍☠️
 
 Welcome to my learning log.
