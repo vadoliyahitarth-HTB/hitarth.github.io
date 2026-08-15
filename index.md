@@ -20,10 +20,14 @@ and building projects.
 - 🔎 Reconnaissance
 - 🐛 Bug Bounty
 
-## 📚 Latest Learning
+## 🔥 Latest Writeups
 
-My journey from cybersecurity fundamentals toward practical
-offensive security.
+{% for post in site.posts %}
+### [{{ post.title }}]({{ post.url | relative_url }})
+
+{{ post.excerpt }}
+
+{% endfor %}
 
 ## 🚀 Goal
 
