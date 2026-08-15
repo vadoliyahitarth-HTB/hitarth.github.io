@@ -5,19 +5,26 @@ title: Cybersecurity Journey
 
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-# My Cybersecurity Journey 🏴‍☠️
+# 🏴‍☠️ Hitarth's Cybersecurity Journey
 
-Welcome to my learning log.
+**Cybersecurity Student • Learner • Builder**
 
-I'm documenting my journey through:
+Learning cybersecurity by studying, practicing, breaking things,
+and building projects.
 
-- Networking
-- Linux
-- Web Security
-- TryHackMe
-- Hack The Box
-- Bug Bounty
+## 🔥 Currently Learning
 
-## Latest Posts
+- 🌐 Networking
+- 🐧 Linux
+- 🛡️ Web Security
+- 🔎 Reconnaissance
+- 🐛 Bug Bounty
 
-My goal is to learn cybersecurity by studying, practicing, making mistakes, and building real projects.
+## 📚 Latest Learning
+
+My journey from cybersecurity fundamentals toward practical
+offensive security.
+
+## 🚀 Goal
+
+Build real skills through hands-on labs, writeups and projects.
