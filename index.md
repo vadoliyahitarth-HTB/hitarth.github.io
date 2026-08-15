@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Cybersecurity Journey
+title: Cybersecurity Journey
 ---
 
 # My Cybersecurity Journey 🏴‍☠️
